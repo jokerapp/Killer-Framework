@@ -65,7 +65,7 @@ def menu():
 =[ {Fore.YELLOW}Killer-Framework console v1.0.01-dev-bbf096e{Style.RESET_ALL}    ]
 + -- --=[ 14 exploits - 47 auxiliary - 5 post      ]
 + -- --=[ 14 payloads - 5 encoders - 0 nops        ]
-+ -- --=[ 40 evasion -                             ]
++ -- --=[ 4 evasion -                             ]
 + -- --=[ İntikam21 Framework - 2 shodan - 90 network]
 İntikam21 Documentation: https://sites.google.com/view/intilam21-cyber-team/kay%C4%B1t
 """ + Fore.RESET)
